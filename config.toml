@@ -3,6 +3,7 @@ baseURL = "https://sabirmostofa.github.io"
 languageCode = "en-us"
 theme = "beautifulhugo"
 publishDir = "docs"
+comments = true
 
 
 DefaultContentLanguage = "en"
@@ -36,8 +37,8 @@ disqusShortname= "localhost-tuxibvqizw"
   background_color_class = "bg-gold"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
-  comments = 1
+  comments = true
   
   [Params.staticman]
-  api = "https://staticman-d.herokuapp.com/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/data"
+  api = "https://staticman-d.herokuapp.com/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/comments"
   
