@@ -39,5 +39,5 @@ disqusShortname= "localhost-tuxibvqizw"
   comments = 1
   
   [Params.staticman]
-  api = "https://staticman3.herokuapp.com/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/data"
+  api = "https://api.staticman.net/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/data"
   
