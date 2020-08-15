@@ -42,15 +42,16 @@ enableRobotsTXT = true
   [Params.staticman]
   #3 versions work , choose one. 2nd one is from the staticman itself
   #api = "https://staticman3.herokuapp.com/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/comments"
-  #api = "https://api.staticman.net/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/comments"
+     
+     api = "https://api.staticman.net/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/comments"
   # this one uses the fixted staticman version from https://github.com/sabirmostofa/staticman
   
-  api = "https://staticman-hero.herokuapp.com/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/comments"
+  #api = "https://staticman-hero.herokuapp.com/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/comments"
   
   #this one uses old version of staticman
   #api = "https://stat-dev.herokuapp.com/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/comments"
   
   [Params.staticman.recaptcha]
       sitekey = "6LdOKL8ZAAAAAIVFJYu1b0VI6oyZQiKW3EKZm__t"
-      secret = "6LdOKL8ZAAAAAIsgq9NhSRuwSvi8Kfy0GDVtEKQK"
+      secret = "xJPsjfehEplJ6Ukvy4/BoemDEi3rb+8atH0hrA/wgQVc2ILa3uqEuvD8WZU9S411UwsG4JB2sMiQFWoZU/YEfe/o2NrpUaPJFau/qq+moZNzp8KMROeDXxuVfj4aCbNxjEmpE8FJP9Z3wAooWV3JecbjvV9fI58jce/SiNsIYQ8="
   
