@@ -1,5 +1,6 @@
 ---
 title: First post!
+comments: true 
 date: 2015-01-05
 ---
 

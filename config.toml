@@ -1,4 +1,4 @@
-title = "HelloFood"
+title = "Blog"
 baseURL = "https://sabirmostofa.github.io"
 languageCode = "en-us"
 theme = "beautifulhugo"

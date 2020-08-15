@@ -2,6 +2,7 @@
 title: Photoswipe Gallery Sample
 subtitle: Making a Gallery
 date: 2017-03-20
+comments: true
 tags: ["example", "photoswipe"]
 ---
 
