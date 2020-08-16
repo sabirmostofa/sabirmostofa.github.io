@@ -5,7 +5,8 @@
   <url>
     <loc>https://sabirmostofa.github.io/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>

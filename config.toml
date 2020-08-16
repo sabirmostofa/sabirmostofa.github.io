@@ -1,9 +1,9 @@
-title = "Blog"
+title = "Getafixs Blog"
 baseURL = "https://sabirmostofa.github.io"
 languageCode = "en-us"
 theme = "beautifulhugo"
 publishDir = "docs"
-comments = true
+
 
 
 DefaultContentLanguage = "en"
@@ -18,9 +18,12 @@ enableRobotsTXT = true
   priority = 0.5
   filename = "sitemap.xml"
 
-[params]
-  favicon = ""
-  site_logo = ""
+[Params]
+  homeTitle = "RESEARCHUT" # Set a different text for the header on the home page
+
+  logo = "img/Logo_Blog_White.png"
+  favicon = "img/Favicon.png"
+  site_logo = "img/Logo_Blog_White.png"
   description = "The last theme you'll ever need. Maybe."
   facebook = "https://www.facebook.com/hellofoodbangladesh"
   twitter = "https://twitter.com/GoHugoIO"
@@ -39,11 +42,13 @@ enableRobotsTXT = true
   recent_posts_number = 2
   comments = true
   
+
+  
   [Params.staticman]
   #3 versions work , choose one. 2nd one is from the staticman itself
   #api = "https://staticman3.herokuapp.com/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/comments"
      
-     api = "https://api.staticman.net/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/comments"
+    api = "https://api.staticman.net/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/comments"
   # this one uses the fixted staticman version from https://github.com/sabirmostofa/staticman
   
   #api = "https://staticman-hero.herokuapp.com/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/comments"
@@ -52,6 +57,6 @@ enableRobotsTXT = true
   #api = "https://stat-dev.herokuapp.com/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/comments"
   
   [Params.staticman.recaptcha]
-      sitekey = "6LdOKL8ZAAAAAIVFJYu1b0VI6oyZQiKW3EKZm__t"
-      secret = "xJPsjfehEplJ6Ukvy4/BoemDEi3rb+8atH0hrA/wgQVc2ILa3uqEuvD8WZU9S411UwsG4JB2sMiQFWoZU/YEfe/o2NrpUaPJFau/qq+moZNzp8KMROeDXxuVfj4aCbNxjEmpE8FJP9Z3wAooWV3JecbjvV9fI58jce/SiNsIYQ8="
+      sitekey = "6LfbVr8ZAAAAANytNf0XdnqfLnwvBp9tE04DoNW_"
+      secret = "NhSEc9y6+R76KfU/OrAg7DirsFY/35EtCLjMslWnCLw+R9vaQB3c4h/j97TdQqK4T67eJQj/GM/ARYiXcjLESJ8EcA79lDlnKGCJjKY5atgzPM1Grf9QZnJd/u499MdibFstsUxYg+jlp1L4S5tNWFXNO6W0FJeEapiSI8THvEw="
   
