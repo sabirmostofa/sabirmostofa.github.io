@@ -14,3 +14,4 @@ TODOS:
 - add reading time
 - add some social buttons bottom
 - Build a toml prettifier with node.js
+- Integrate Hugo notice theme with current one
