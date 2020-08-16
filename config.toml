@@ -53,10 +53,10 @@ enableRobotsTXT = true
   #3 versions work , choose one. 2nd one is from the staticman itself
   #api = "https://staticman3.herokuapp.com/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/comments"
      
-    api = "https://api.staticman.net/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/comments"
+  #api = "https://api.staticman.net/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/comments"
   # this one uses the fixted staticman version from https://github.com/sabirmostofa/staticman
   
-  #api = "https://staticman-hero.herokuapp.com/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/comments"
+  api = "https://staticman-hero.herokuapp.com/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/comments"
   
   #this one uses old version of staticman
   #api = "https://stat-dev.herokuapp.com/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/comments"
