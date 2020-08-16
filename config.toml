@@ -1,4 +1,4 @@
-title = "Getafixs Blog"
+title = "Getafix's Blog"
 baseURL = "https://sabirmostofa.github.io"
 languageCode = "en-us"
 theme = "beautifulhugo"
@@ -13,13 +13,14 @@ googleAnalytics = "UA-16165864-7"
 enableRobotsTXT = true
 # disqusShortname= "localhost-tuxibvqizw"
 
-[sitemap]
+[Sitemap]
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
 
 [Params]
-  homeTitle = "RESEARCHUT" # Set a different text for the header on the home page
+  #homeTitle = "RESEARCHUT" # Set a different text for the header on the home page
+  homeTitle = " "
 
   logo = "img/Logo_Blog_White.png"
   favicon = "img/Favicon.png"
@@ -57,6 +58,6 @@ enableRobotsTXT = true
   #api = "https://stat-dev.herokuapp.com/v3/entry/github/sabirmostofa/sabirmostofa.github.io/master/comments"
   
   [Params.staticman.recaptcha]
-      sitekey = "6LfbVr8ZAAAAANytNf0XdnqfLnwvBp9tE04DoNW_"
-      secret = "NhSEc9y6+R76KfU/OrAg7DirsFY/35EtCLjMslWnCLw+R9vaQB3c4h/j97TdQqK4T67eJQj/GM/ARYiXcjLESJ8EcA79lDlnKGCJjKY5atgzPM1Grf9QZnJd/u499MdibFstsUxYg+jlp1L4S5tNWFXNO6W0FJeEapiSI8THvEw="
+      sitekey = "6LfbVr8ZAAAAANytNf0XdnqfLnwvBp9tE04DoNW_"      
+      secret= "NhSEc9y6+R76KfU/OrAg7DirsFY/35EtCLjMslWnCLw+R9vaQB3c4h/j97TdQqK4T67eJQj/GM/ARYiXcjLESJ8EcA79lDlnKGCJjKY5atgzPM1Grf9QZnJd/u499MdibFstsUxYg+jlp1L4S5tNWFXNO6W0FJeEapiSI8THvEw="
   
