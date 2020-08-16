@@ -13,3 +13,4 @@ TODOS:
 - Staticman on heroku setup
 - add reading time
 - add some social buttons bottom
+- Build a toml prettifier with node.js

@@ -7,7 +7,13 @@ comments:
   #
   # Names of the fields the form is allowed to submit. If a field that is
   # not here is part of the request, an error will be thrown.
+  
   allowedFields: ["name", "email", "website", "comment"]
+  
+  reCaptcha:
+    enabled: true
+    siteKey: "6LfbVr8ZAAAAANytNf0XdnqfLnwvBp9tE04DoNW_"
+    secret: "NhSEc9y6+R76KfU/OrAg7DirsFY/35EtCLjMslWnCLw+R9vaQB3c4h/j97TdQqK4T67eJQj/GM/ARYiXcjLESJ8EcA79lDlnKGCJjKY5atgzPM1Grf9QZnJd/u499MdibFstsUxYg+jlp1L4S5tNWFXNO6W0FJeEapiSI8THvEw=" 
   
   # (*) REQUIRED WHEN USING NOTIFICATIONS
   #
@@ -82,8 +88,5 @@ comments:
   # the name of the field and values are possible transformation types.
   transforms:
     email: md5
-    
-  reCaptcha:
-    enabled: true
-    sitekey: "6LfbVr8ZAAAAANytNf0XdnqfLnwvBp9tE04DoNW_"
-    secret: "NhSEc9y6+R76KfU/OrAg7DirsFY/35EtCLjMslWnCLw+R9vaQB3c4h/j97TdQqK4T67eJQj/GM/ARYiXcjLESJ8EcA79lDlnKGCJjKY5atgzPM1Grf9QZnJd/u499MdibFstsUxYg+jlp1L4S5tNWFXNO6W0FJeEapiSI8THvEw="
+  
+

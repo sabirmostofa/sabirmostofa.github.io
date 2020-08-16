@@ -23,6 +23,7 @@ enableRobotsTXT = true
   homeTitle = " "
 
   logo = "img/Logo_Blog_White.png"
+  #logo = "img/Logo_druid.png"
   favicon = "img/Favicon.png"
   site_logo = "img/Logo_Blog_White.png"
   description = "The last theme you'll ever need. Maybe."
@@ -42,7 +43,9 @@ enableRobotsTXT = true
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
   comments = true
+  #tells hugo to list posts in the main section
    mainSections = ["post" ]
+   readingTime = true
   
 
   
