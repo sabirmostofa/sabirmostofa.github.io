@@ -1,7 +1,7 @@
 title = "Getafix's Blog"
 baseURL = "https://sabirmostofa.github.io"
 languageCode = "en-us"
-theme = "beautifulhugo"
+theme = ["beautifulhugo", "hugo-notice"]
 publishDir = "docs"
 
 
