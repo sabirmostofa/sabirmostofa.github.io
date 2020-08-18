@@ -9,9 +9,9 @@ comments: true
 This weekend, I am setting up this blog with ***Hugo*** and I love it! It's freakishly fast.
 
 TODOS:
-- Fix Google recaptcha for comments
-- Staticman on heroku setup
-- add reading time
+- ~~Fix Google recaptcha for comments~~
+- ~~Staticman on heroku setup~~
+- ~~add reading time~~
 - add some social buttons bottom
 - Build a toml prettifier with node.js
-- Integrate Hugo notice theme with current one
+- ~~Integrate Hugo notice theme with current one~~

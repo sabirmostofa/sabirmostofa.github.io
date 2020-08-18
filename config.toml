@@ -13,6 +13,10 @@ googleAnalytics = "UA-16165864-7"
 enableRobotsTXT = true
 disqusShortname= "localhost-tuxibvqizw"
 
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+
 [Sitemap]
   changefreq = "monthly"
   priority = 0.5
@@ -27,7 +31,7 @@ disqusShortname= "localhost-tuxibvqizw"
   favicon = "img/Favicon.png"
   site_logo = "img/Logo_Blog_White.png"
   description = "The last theme you'll ever need. Maybe."
-  facebook = "https://www.facebook.com/hellofoodbangladesh"
+  facebook = "https://www.facebook.com/hellofoodbanglades"
   twitter = "https://twitter.com/GoHugoIO"
   instagram = ""
   youtube = ""
@@ -37,7 +41,7 @@ disqusShortname= "localhost-tuxibvqizw"
   mastodon = ""
   slack = ""
   stackoverflow = ""
-  rss = ""
+  rss = "index.xml"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-gold"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
