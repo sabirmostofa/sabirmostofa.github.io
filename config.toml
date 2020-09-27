@@ -50,6 +50,11 @@ disqusShortname= "localhost-tuxibvqizw"
   #tells hugo to list posts in the main section
    mainSections = ["post" ]
    readingTime = true
+   
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
   
 
   
